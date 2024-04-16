@@ -19,7 +19,7 @@ This project is a basic user interface (UI) clone of the UsabilityHub website. I
 
 To get a local copy of this project up and running, follow these simple steps:
 
-1. Clone the repository: `git clone https://github.com/mriduldutt/usabilityhub.git`
+1. Clone the repository: `git clone https://github.com/mriduldutt/UsabilityHub.git`
 2. Open `index.html` in your preferred web browser to view the UI clone.
 
 ## Usage
@@ -37,14 +37,12 @@ Contributions to enhance or improve this UI clone project are welcome! To contri
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
 Your Name - (mirdul12dutt@gmail.com)
 
-Project Link:  (https://github.com/your_username/usabilityhub-ui-clone)
+Project Link: (https://mriduldutt.github.io/UsabilityHub/)
 
 
